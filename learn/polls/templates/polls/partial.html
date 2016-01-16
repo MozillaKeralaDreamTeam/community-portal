@@ -1,0 +1,6 @@
+{% if question %}
+    <p>{{ response }} {{ question.id }} </p>
+    <p>Question : {{question}}</p>
+{% else %}
+    <p>No polls are available.</p>
+{% endif %}
