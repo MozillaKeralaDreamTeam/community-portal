@@ -20,7 +20,7 @@ Community portal for Mozilla Kerala ( Django Project )
  - **Featured contributors**
  - **Featured apps**
  - **Meetings page**
-   - Meeting longs
+   - Meeting logs
  - **To do list**
    - List of tasks volunteers can pickup and do
   
