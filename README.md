@@ -14,7 +14,7 @@ To verify python : `$ python -V`
 
 ### Install Django
 
-[Install pip](https://pip.pypa.io/en/stable/installing/)
+Install pip from [here](https://pip.pypa.io/en/stable/installing/)
 
 To install Django `$ pip install Django`
 
