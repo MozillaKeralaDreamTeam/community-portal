@@ -14,14 +14,14 @@ Community portal for Mozilla Kerala ( Django Project )
 - **Accounts**
   - Firefox accounts?
   - Integration with mozillians.org
- - **Events page**
- - **Like button**
- - **Commenting feature**
- - **Featured contributors**
- - **Featured apps**
- - **Meetings page**
-   - Meeting logs
- - **To do list**
-   - List of tasks volunteers can pickup and do
+- **Events page**
+- **Like button**
+- **Commenting feature**
+- **Featured contributors**
+- **Featured apps**
+- **Meetings page**
+  - Meeting logs
+- **To do list**
+  - List of tasks volunteers can pickup and do
   
 [Planning pad](https://public.etherpad-mozilla.org/p/mkdt-community-portal)
